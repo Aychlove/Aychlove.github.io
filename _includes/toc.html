@@ -1,8 +1,8 @@
 <nav>
   <ul class="list">
-    {% assign AYCHs = site.pages | where:'layout','AYCH' | sort:'AYCH' %}
+    {% assign AYCHs = site.pages | where:'layout','AYCHLOVE' | sort:'AYCHLOVE' %}
     {% for page in AYCHs %}
-      {% include toc-entry.html url=page.url title=page.title aych=page.aych %}
+      {% include toc-entry.html url=page.url title=page.title aychlove=page.aychlove %}
     {% endfor %}
   </ul>
 </nav>
