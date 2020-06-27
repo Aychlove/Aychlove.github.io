@@ -1,6 +1,6 @@
 ---
-layout: AYCH
-AYCH: -2
+layout: AYCHLOVE
+AYCHLOVE: -2
 title: "About the author"
 ---
 
