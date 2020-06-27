@@ -1,12 +1,12 @@
 # Site settings
-title: "A Y C H O M E"
-description: 'Read AYCHOME in plain text online.
+title: "A Y C H L O V E"
+description: 'Read AYCHLOVE in plain text online.
 
-The AYCHOME is a fresh version of accessing AYCH inc services and products. This is a manual, step-by-step guide, towards management and software products. It is meant to be practical. It is meant for use.'
+The AYCHLOVE is a fresh version of accessing the participation of AYCH inc in social development. It is meant to be practical. It is meant for use.'
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://aychome.github.io" # the base hostname & protocol for your site
+url: "https://aychlove.github.io" # the base hostname & protocol for your site
 github_username: Creditbox
-github_url:  https://github.com/aychome/aychome.io
+github_url:  https://github.com/aychlove/aychlove.io
 permalink: pretty
 exlude:
   - css/style.styl
