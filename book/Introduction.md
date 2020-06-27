@@ -1,7 +1,7 @@
 ------------
-layout: AYCH
-AYCH: 0
-title: "Introduction: AYCH inc Principle"
+layout: AYCHLOVE
+AYCHLOVE: 0
+title: "Introduction: AYCH inc for AYCHLOVE Program"
 ---🎆🎆🎆---
 
 
