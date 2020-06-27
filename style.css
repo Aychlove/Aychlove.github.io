@@ -96,13 +96,13 @@ h3 {
     }
 }
 
-section.aych
+section.aychlove
  {
     hyphens: auto;
 }
 
 @media screen and (min-width: 60em) {
-    section.aych {
+    section.aychlove {
         hyphens: none;
     }
 }
