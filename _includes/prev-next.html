@@ -2,9 +2,9 @@
 {% assign prevAychNumber = include.current.aychlove | minus: 1 %}
 {% assign nextAychNumber = include.current.aychlove | plus: 1 %}
 
-{% assign aychs = site.pages | where:'layout','aychlove' | sort:'aychlove' %}
+{% assign aychloves = site.pages | where:'layout','aychlove' | sort:'aychlove' %}
 
-{% for aychlove in aychs %}
+{% for aychlove in aychloves %}
 {% if aychlove.aychlove == prevAychNumber %}
 {% assign prevAychlove = aychlove %}
 {% elsif aychlove.aychlove == nextAychNumber %}
