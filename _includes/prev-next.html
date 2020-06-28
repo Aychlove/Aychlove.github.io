@@ -1,32 +1,32 @@
-<!-- Lookup previous and next AYCH -->
-{% assign prevAychNumber = include.current.aych | minus: 1 %}
-{% assign nextAychNumber = include.current.aych | plus: 1 %}
+<!-- Lookup previous and next AYCHLOVE -->
+{% assign prevAychNumber = include.current.aychlove | minus: 1 %}
+{% assign nextAychNumber = include.current.aychlove | plus: 1 %}
 
-{% assign aychs = site.pages | where:'layout','aych' | sort:'aych' %}
+{% assign aychs = site.pages | where:'layout','aychlove' | sort:'aychlove' %}
 
-{% for aych in aychs %}
-{% if aych.aych == prevAychNumber %}
-{% assign prevAych = aych %}
-{% elsif aych.aych == nextAychNumber %}
-{% assign nextAych = aych %}
+{% for aychlove in aychs %}
+{% if aychlove.aychlove == prevAychNumber %}
+{% assign prevAychlove = aychlove %}
+{% elsif aychlove.aychlove == nextAychNumber %}
+{% assign nextAychlove = aychlove %}
 {% endif %}
 {% endfor %}
 
 <!-- Add previous and next links -->
 <nav class="flex flex-wrap f7 fw3 ttu tracked mt5">
-    {% if prevAych.url %}
-      <a class="bt b--light-silver flex justify-start items-center w-100 pv3 pr3 tl serif link outline-none gray hover-dark-gray hover-bg-nearest-white x-previous" href="{{ prevAych.url }}" style="height: 5em;">
-          <span class="sans-serif mr2">←</span>{{ prevAych.title }}
+    {% if prevAychlove.url %}
+      <a class="bt b--light-silver flex justify-start items-center w-100 pv3 pr3 tl serif link outline-none gray hover-dark-gray hover-bg-nearest-white x-previous" href="{{ prevAychlove.url }}" style="height: 5em;">
+          <span class="sans-serif mr2">←</span>{{ prevAychlove.title }}
       </a>
     {% endif %}
 
     <a href="{{ site.url }}/" class="bt b--light-silver flex justify-center items-center tc w-100 pa3 serif link outline-none gray hover-dark-gray hover-bg-nearest-white x-top" style="height: 5em;">Top</a>
 
 
-    {% if nextAych.url %}
-      <a class="bt b--light-silver flex justify-end items-center w-100 tr pv3 pl3 serif link outline-none gray hover-dark-gray hover-bg-nearest-white x-next" href="{{ nextAych.url }}"
+    {% if nextAychlove.url %}
+      <a class="bt b--light-silver flex justify-end items-center w-100 tr pv3 pl3 serif link outline-none gray hover-dark-gray hover-bg-nearest-white x-next" href="{{ nextAychlove.url }}"
       style="height: 5em;">
-          {{ nextAych.title }}<span class="sans-serif ml2">→</span>
+          {{ nextAychlove.title }}<span class="sans-serif ml2">→</span>
       </a>
     {% endif %}
 </nav>
@@ -34,12 +34,12 @@
 <script>
 /* post pagination keyboard shortcuts */
 document.body.onkeyup = function(e){
-    {% if prevAych.url %}
-    if (e.keyCode == '37') { window.location = '{{ prevAych.url }}'; } // left arrow key
+    {% if prevAychlove.url %}
+    if (e.keyCode == '37') { window.location = '{{ prevAychlove.url }}'; } // left arrow key
     {% endif %}
 
-    {% if nextAych.url %}
-    if (e.keyCode == '39') { window.location = '{{ nextAych.url }}'; } // right arrow key
+    {% if nextAychlove.url %}
+    if (e.keyCode == '39') { window.location = '{{ nextAychlove.url }}'; } // right arrow key
     {% endif %}
 };
 </script>
