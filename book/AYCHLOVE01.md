@@ -4,8 +4,11 @@ AYCHLOVE: 1
 title: Good Day to You
 ---
 
+
+🎁 Beninese says, "A great affair covers up a small matter." 🎁
+
+
 Good Day to You
-29 Beautiful Stories That Will Restore Your Faith in HumanityMorning commutes can be the bane of city dwellers’ existences, but not for commuters at the Armitage train station in Chicago. In the coldest of winter mornings, Janet Martin, with the Chicago Transit Authority, mans the turnstiles, welcoming customers with a huge smile.
 
 Slowly, zombielike commuters open their eyes, lift their chins and rip out their headphones to return her greeting.
 
