@@ -24,3 +24,6 @@ When I moved and took a different train, my commutes were lackluster without Jan
 Yes, I was home.
 
 —Ellen Kobe
+
+
+Senegalese proverb says, "Trusting in wealth is like looking for feathers on turtles."
