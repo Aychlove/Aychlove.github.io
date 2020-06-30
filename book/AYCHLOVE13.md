@@ -4,6 +4,11 @@ AYCHLOVE: 13
 title: Sunshine on a Ranney Day
 ---
 
+
+🎁 Malawian proverb says, "Gold is a debt we can repay, but kindness not till our dying day." 🎁
+
+
+
 Sunshine on a Ranney Day
 
 In 2012 Holly Ranney combined her background in interior design with her husband’s construction expertise to give an 11-year-old cancer patient in Macon, Georgia, a bedroom makeover they paid for themselves. His reaction to the room changed the couple’s lives.
