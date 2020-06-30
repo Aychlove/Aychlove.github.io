@@ -4,6 +4,11 @@ AYCHLOVE: 12
 title: Unsolicited Help
 ---
 
+
+🎁 People are like plants in the wind: they bow down and rise up again. -- Madagascar Proverb 🎁
+
+
+
 Unsolicited Help
 
 A Sudanese woman, Alik, who was pregnant and had two young children in tow, arrived in Fort Worth, Texas, without her husband, Dyan, in 2012. Upon leaving their refugee camp in Egypt, Dyan wasn’t able to make the journey with his family because the couple had no official proof of their marriage with them. Alik was processed as a single mother, which bumped her to the top of the resettlement list, and her husband, a single man, was moved down to the bottom.
