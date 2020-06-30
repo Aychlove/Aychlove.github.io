@@ -4,6 +4,11 @@ AYCHLOVE: 4
 title: Silent Struggles
 ---
 
+
+🎁 Guinean proverb says, "The man who builds his own throne rules over a desert." 🎁
+
+
+
 Silent Struggles
 A poem for a stranger
 
