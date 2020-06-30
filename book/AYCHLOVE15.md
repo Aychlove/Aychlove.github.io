@@ -5,6 +5,10 @@ title: Walking Tall
 ---
 
 
+🎁 Djibouti proverb says, "What an adult sees from the ground, a boy cannot see even if he climbs a silk-cotton tree." 🎁
+
+
+
 Walking Tall
 
 In the summer of 2010, Chris Leeuw took a break from kayaking to climb a truss bridge and dive into a deep southern Indiana river. Ten seconds later, he couldn’t feel anything from the neck down. Another guy had jumped with Leeuw and drifted over mid-fall, landing on Leeuw’s neck and leaving the 28-year-old a quadriplegic by the time he surfaced. In the ensuing weeks and months, the wheelchair-bound Leeuw traversed a dizzying network of hospitals, outpatient centers and nursing homes, but found the maze of his care complicated, expensive and not focused enough on his goal: walking again.
