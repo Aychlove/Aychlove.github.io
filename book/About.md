@@ -4,6 +4,8 @@ AYCHLOVE: -2
 title: "About the author"
 ---
 
+#  About the author of AYCHLOVE program
+
 Jean Wallet (JW) was 14 years old in 1990 counting back to his birth. He was born in a small countryside village in a northern province of Vietnam. 
 He is now working with AYCH inc. As a founder, JW is leading a group of consultants and developers for business, enterprises and individuals. It has clients and users around the world.
 His outermost concern is how to use AYCH inc technology in order to help enterprises and businesses achieve their goals at the minimum cost.
@@ -18,3 +20,13 @@ One question I seek your ideas is how to turn more users into our customers?
 AYCH Inc., is  for "leadwise" and "managewell" principle.
 
 If you would like to join AYCH inc for contributing, you are advised to click at [AYCH](https://github.com/apps/aychome/)
+
+
+#  A Collection of Proverbs
+
+Angolan proverb says, "The mysterious road beckons the young man."
+
+Besinese proverb says, "A great affair covers up a small matter."
+
+
+Guinean proverb says, "No matter how long the winter, spring is sure to follow."
