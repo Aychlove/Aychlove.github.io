@@ -70,3 +70,9 @@ truly from the bottom of my heart.”
 
 —Megan O’Neal
 
+
+
+Somali proverb says, "Only water in your hands can satisfy your thirst."
+
+
+
