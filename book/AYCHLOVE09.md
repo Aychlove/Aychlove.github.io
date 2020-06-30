@@ -5,6 +5,9 @@ title: Secret Santa
 ---
 
 
+🎁 Gambian Proverb says, "However black a cow is, the milk is always white." 🎁
+
+
 
 Secret Santa
 Pat Rydzy, a retired dental hygienist from upstate New York, discovered a need one day in January 1997 when an adult male with developmental disabilities sat down in her hygienist’s chair. The man was sad because “Santa Claus couldn’t come.” It was three weeks after Christmas, so Rydzy knew the lack of a single present had made a dent in the man’s heart. She discovered there were not enough extra funds to buy holiday gifts for the adults in the county’s Arc program, which helps people with mental and developmental disabilities.
