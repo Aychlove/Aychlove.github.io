@@ -59,7 +59,7 @@ July 2020: Present an overall of AYCHLOVE program to the L47 and people concerne
 July 2020 - June 2021: Continues researching on ways, approaches to L47, builds a network and conducts AYCHLOVE project(s) where is possible.
 
 May 2021: First release of beta version of AYCHLOVE program.
-          SYCHLOVE program forum
+          AYCHLOVE program forum
           Updates the operations of AYCHLOVE program.
 
 July 2021: Runs the AYCHLOVE program beta version and keep it updated.
