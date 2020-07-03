@@ -19,7 +19,7 @@ If the L47 would ensure its people with at least two healthy meals per day by 20
 If the L47 would get its people sheltered for 70% by 2030, it could get its people sheltered for 100% by 2040.
 
 
-Jean Wallet (JW)
+Jean Wallet (JW), Founder of [AYCH inc](https://https://aychome.github.io/) and
 [AYCHLOVE program Network](https://gitter.im/AYCHL0VE/community/)<br/>
 Antwerpen, 2050<br/>
 June 28, 2020<br/>
@@ -31,7 +31,7 @@ Operation Standards are adapted from international and national regulations. Soc
 
 AYCHLOVE yearly operation plan is made for July to June.
 
-The program may start June 2020 and keep going foward, with the support from donors, volunteers and people who are interested in the program.
+[The program](https://github.com/Aychlove/Aychlove.github.io/blob/master/book/Preface.md/) may start June 2020 and keep going foward, with the support from donors, volunteers and people who are interested in the program.
 
 
 #  Formats to be used
