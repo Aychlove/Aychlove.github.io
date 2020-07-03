@@ -7,8 +7,8 @@ title: "Preface"
 
 #  A Brief of AYCHLOVE Program
 
-The AYCHLOVE program is some participation of social development program. It is an initiative taken from some issues.
-The main concern arisen from the list of Least Developed Countries (LDCS), with about 47 countries as sorted by UNTAD (as,of 2018). Let's use L47 as an abbreviation for this group.
+The AYCHLOVE program is some [AYCH inc](https://aychome.github.io/) participation of social development program. It is an initiative taken from some issues.
+The main concern arisen from the list of Least Developed Countries (LDCS), with about 47 countries as sorted by UNCTAD (as,of 2018). Let's use L47 as an abbreviation for this group.
 It has some reason to look at L47 GDP with its less than 2%.
 
 Then, there may have some topics presented here for whom may it concern as follows:
